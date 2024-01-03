@@ -54,12 +54,23 @@
 ## 📈 Monthly activity report
 ![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/monthly%20report.png)<br>
 
+## 🚀 Admin Homepage
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/admin%20home%20page.png)<br>
+
+## 🚀 Categories Gallery
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/admin%20categories%20view.png)<br>
+
+## 🚀 StoreManager's Homepage
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/SM%20Homepage.png)<br>
+
+## 📦 Inventory Overview
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/products%20view.png)<br>
+
+## 📋 Store Categories Dashboard
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/categories%20view.png)<br>
+
 ## 📜 Request Log for Managers
 ![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/SM%20Requests.png)<br>
 
-## 🚀 Admin Homepage<br>
-![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/admin%20home%20page.png)<br>
-
-## 🚀 StoreManager's Homepage<br>
-![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/SM%20Homepage.png)<br>
-
+## 📊 Reports dashboard
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/productsummary%20report.png)<br>
