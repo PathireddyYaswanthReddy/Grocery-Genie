@@ -1,4 +1,4 @@
-# Grocery-Genie
+# Grocery-Genie 🧞‍♂️
 
 ## Embark on a revolutionary grocery shopping experience 🛒✨ with our multi-user app, featuring a seamless collaboration between admins, store managers, and users. Effortlessly fill your cart with a diverse array of products spanning multiple sections. Empower store managers to curate their inventory by adding products and proposing new sections, all while our vigilant admin oversees and manages category requests and store manager signups. Elevate your grocery shopping game with our intuitive and collaborative platform!
 
@@ -29,6 +29,33 @@
 
 ## 🚀 User's Landing page<br>
 ![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/User%20homepage.png)<br>
+
+## 🚀 Products Gallery
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/products1.png)<br>
+<br>
+<br>
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/products2.png)<br>
+
+## 🛒✨Cart Overview<br>
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/cart%20view.png)<br>
+
+## 🕰️ Purchase History
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/my%20orders.png)<br>
+
+## 📋 Order Summary
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/order%20details.png)<br>
+
+## ✉️ Order Summary Email
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/ordersummary%20email.png)<br>
+
+## 🔔 Daily Remainder
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/daily%20remainder.png)<br>
+
+## 📈 Monthly activity report
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/monthly%20report.png)<br>
+
+## 📜 Request Log for Managers
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/SM%20Requests.png)<br>
 
 ## 🚀 Admin Homepage<br>
 ![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/admin%20home%20page.png)<br>
