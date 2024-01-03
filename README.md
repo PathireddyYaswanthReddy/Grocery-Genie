@@ -26,3 +26,7 @@
   🌐 Visit http://localhost:5173/login in your web browser.<br>
 
 # Appplication Demo
+
+## 🚀 Admin Homepage<br>
+## 🚀 StoreManager's Homepage<br>
+## 🚀 User's Landing page<br>
