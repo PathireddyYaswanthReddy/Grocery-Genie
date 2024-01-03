@@ -27,6 +27,12 @@
 
 # Appplication Demo
 
-## 🚀 Admin Homepage<br>
-## 🚀 StoreManager's Homepage<br>
 ## 🚀 User's Landing page<br>
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/User%20homepage.png)<br>
+
+## 🚀 Admin Homepage<br>
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/admin%20home%20page.png)<br>
+
+## 🚀 StoreManager's Homepage<br>
+![](https://github.com/PathireddyYaswanthReddy/Grocery-Genie/blob/main/grocery-genie%20screenshots/SM%20Homepage.png)<br>
+
