@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <p><strong>Greetings from Grocery Genie,</strong></p>
+        <p>Thank you for choosing Grocery Genie for your culinary adventures! Your order has been received, and we're thrilled to be your go-to source for all things delicious. Here's a summary of your recent order:</p>
+
+        <p><strong>Order Number:</strong>{{ ordnum }}</p>
+        <p><strong>Order Date:</strong>{{ date }}</p>
+
+        <p><strong>🛍️ Order Details:</strong></p>
+        
+        <table>
+            <tr>
+                <th>Item</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+            </tr>
+            {% for i in l %}
+                <tr>
+                    <td>{{ i[0] }}</td>
+                    <td>{{ i[1] }}</td>
+                    <td>{{ i[2] }}</td>
+                    <td>{{ i[3] }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <p><strong>Order Total</strong>&nbsp;&nbsp;<span style="color:black;">&#8377;</span>{{ total }}</p>
+        </tr>
+        <p>We sincerely thank you for choosing Grocery Genie. We hope your order adds a dash of magic to your meals and makes your cooking experience truly delightful.</p>
+
+        <p>Happy Shopping,</p>
+        <p>The Grocery Genie Team 🎉🍇</p>
+    </body>
+</html>

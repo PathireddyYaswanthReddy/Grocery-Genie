@@ -1,0 +1,238 @@
+#navigation_bar 
+{
+    background-color: #3c006b ;
+    height: 80px;
+    top: 0;
+    left: 0;
+    padding-top: 1rem;
+    padding-bottom: 0.25rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+#wp_name
+{
+    margin-top: 5px;
+    color: #ff3269;
+    width: 13rem;
+    font-size: 2rem;
+}
+
+#store_selector
+{
+    margin-top: 7px;
+    width: 15rem;
+    background-color: #3c006b;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    letter-spacing: 1px;
+    font-family:'Lato';
+    height: 80%;
+    color:white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#search
+{
+    margin-top: 7px;
+    width: 45rem;
+    border-radius: 0.25rem;
+    border: none;
+    outline: none;
+    height:80%;
+    padding-left: 1rem;
+    letter-spacing: 1px;
+    font-family:'Lato'
+}
+
+#uname
+{
+    background-color: #3c006b;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 1.25rem;
+    white-space: nowrap;         
+    overflow: hidden;            
+    text-overflow: ellipsis;     
+    width: 130px;
+}
+
+.card
+{
+    width:250px; 
+    height: 150px; 
+    border-radius:1rem;
+    border-color: #f6edf9;
+    background-color: #f6edf9;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align:center;
+    justify-content: center;
+}
+
+#sidepannel
+{
+    background-color: #3c006b;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    width: 26%;
+    padding : 20px 15px;
+    height: 100%;
+    position: fixed;
+    margin-top: 8%; 
+}
+
+#line
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: 1px solid white;
+    background-color: white;
+    opacity: unset;
+}
+
+.pannelbt
+{
+    font-family:'Lato';
+    background-color:#3c006b;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 1.25rem;
+    height: 4rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom:10px;
+    text-align: left;
+}
+
+.pannelbt1:focus
+{
+    background-color:white;
+    color: #3c006b;
+}
+
+.contentpannel
+{   
+    position:absolute;
+    margin-top: 8%;
+    margin-left:26%;
+}
+
+.card1
+{
+    border-color: black;
+    background-color: white;
+    text-align: left;
+    height: fit-content;
+}
+
+#productselect
+{
+    border-style: groove !important;
+    border-color: initial;
+    width: 20%;
+    height: 40px;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: unset !important;
+}
+
+th{
+    color: #3c006b;
+    margin-right: 10px;
+}
+
+.categoryselector{
+    width : 15%;
+    height: 100%;
+    position : absolute;
+    box-shadow: 2px -8px 8px rgba(0,0,0,.08);
+}
+
+.card3{
+    border-color: #f6edf9;
+    text-align:center;
+    justify-content: center;
+    margin-left:-0.5%;
+}
+
+.card4{
+    border-color: black;
+    background-color: white;
+    text-align: left;
+    justify-content: left;
+    width:250px; 
+    height: 260px; 
+    border-radius:1rem;
+}
+
+#addbutton{
+    font-family:'Lato';
+    border-color:black;
+    color:#FF3269 !important;
+    width: 25%;
+    height: 15%;
+    margin-bottom: 5%;
+}
+
+.productcount{
+    font-family:'Lato';
+    border-color:#FF3269;
+    color:white !important;
+    background-color: #FF3269;
+    width: fit-content;
+    height: 140%;
+    text-align:center;
+    justify-content: center!important;
+    outline:none;
+    border-radius: 0rem;;
+}
+
+.description-ellipsis {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+}
+
+.card5
+{
+    border-color: black;
+    background-color: white;
+    text-align: left;
+    height: fit-content;
+    width: 95%;
+    margin-left:1.7%;
+    margin-bottom:2%;
+}
+
+.card6
+{
+    border-color: black;
+    background-color: white;
+    text-align: left;
+    height: fit-content;
+    width: 70%;
+    margin-left:1.7%;
+    margin-bottom:2%;
+    cursor: pointer;
+}
+
+.card7
+{
+    border-color: white;
+    background-color: white;
+    text-align: left;
+    height: fit-content;
+    width: 70%;
+    margin-left:1.7%;
+}

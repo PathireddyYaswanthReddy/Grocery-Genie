@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <p><strong>Dear {{ username }},</strong></p>
+        <p>Greetings from the Grocery Store team! As {{ month }} draws to a close, we're thrilled to share your personalized Monthly Grocery Haul Report. Your visits have added vibrancy to our aisles, and we're excited to celebrate the culinary journey you've embarked on this month.</p>
+
+        <p><strong>🛍️ Shopping Highlights:</strong></p>
+        <p>Let's dive into the heart of it—your shopping cart! Here are some highlights of the items you've selected this month</p>
+        {% if d | length > 0 %}
+            {% for i in d %}
+                <p><strong>{{ i }}</strong></p>
+                <ul>
+                    {% for j in d[i] %}
+                        <li><strong>{{ j }}</strong>  Qty : {{ d[i][j] }}</li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+        {% else %}
+            <p><strong>🤔 A Quiet {{ month }}? That's Okay!</strong></p>
+            <p>We noticed there were no purchases recorded in {{ month }}, and that's absolutely fine! Life gets busy, and sometimes the cart remains empty. Your connection with Grocery Genie goes beyond transactions, and we value having you as part of our community.</p>
+        {% endif %}
+        <p><strong>📦 Monthly Order Summary:</strong></p>
+        <p>For your convenience, here's a quick summary of your monthly order:</p>
+        <ul>
+            <li><p><strong>Total Items Ordered:</strong> {{ totalitems }} </p></li>
+            <li><p><strong>Total Spend:</strong> {{ monthlyexpenditure }}</p></li>
+        </ul>
+
+        <p><strong>🌟 Looking Ahead:</strong></p>
+        <p>As we approach a new month, get ready for more exciting product launches, exclusive promotions, and surprises. Your feedback and suggestions are always welcomed as we strive to make your grocery shopping experience even more delightful.</p>
+
+        <p>Thank you for choosing us as your preferred grocery destination.</p>
+
+        <p>Happy Shopping,</p>
+        <p>The Grocery Genie Team 🎉🍇</p>
+    </body>
+</html>
