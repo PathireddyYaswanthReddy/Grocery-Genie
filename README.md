@@ -11,18 +11,18 @@
   ⭐️ <strong>Bootstrap</strong><br>
 
 # Installation
-  ⭐️ Clone the repository into your local machine<br>
-  ⭐️ Navigate to the project directory<br>
-  ⭐️ Create a virtual environment<br>
-  ⭐️ Activate the virtual environment<br>
-  ⭐️ Install the project dependencies by using the following command "pip install -r requirements.txt"<br>
-  ⭐️ Initiate the flask server by running the following command "python3 store.py"<br>
-  ⭐️ Open a new terminal and navigate to the grocery-store directory which is located inside the root directory<br>
-  ⭐️ Install the node modules by running the following command "npm install"<br>
-  🚀 Launch the application by executing the command "npm run dev"<br>
-  ⭐️ To execute the celery jobs initiate the redis-server and run the following commands<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;>"celery -A store.celery worker -l info"<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;>"celery -A store.celery beat --max-interval 1 -l info"<br>
-  🌐 Visit http://localhost:5173/login in your web browser<br>
+  ⭐️ Clone the repository into your local machine.<br>
+  ⭐️ Navigate to the project directory.<br>
+  ⭐️ Create a virtual environment.<br>
+  ⭐️ Activate the virtual environment.<br>
+  ⭐️ Install the project dependencies by using the following command "pip install -r requirements.txt".<br>
+  ⭐️ Initiate the flask server by running the following command "python3 store.py".<br>
+  ⭐️ Open a new terminal and navigate to the grocery-store directory which is located inside the root directory.<br>
+  ⭐️ Install the node modules by running the following command "npm install".<br>
+  🚀 Launch the application by executing the command "npm run dev".<br>
+  ⭐️ To execute the celery jobs initiate the redis-server and run the following commands.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;>"celery -A store.celery worker -l info".<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;>"celery -A store.celery beat --max-interval 1 -l info".<br>
+  🌐 Visit http://localhost:5173/login in your web browser.<br>
 
 # Appplication Demo
